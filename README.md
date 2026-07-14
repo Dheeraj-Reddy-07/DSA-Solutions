@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
