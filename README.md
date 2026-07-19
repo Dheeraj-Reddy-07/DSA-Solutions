@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
