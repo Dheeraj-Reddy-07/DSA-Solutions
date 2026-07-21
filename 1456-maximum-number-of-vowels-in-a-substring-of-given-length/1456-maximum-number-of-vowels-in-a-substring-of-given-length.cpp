@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isVowel(char &ch){
+    bool isVowel(char ch){
         return string("aeiou").find(tolower(ch))!=string::npos;
     }
     int maxVowels(string s, int k) {
