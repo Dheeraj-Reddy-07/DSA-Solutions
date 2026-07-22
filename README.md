@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0523-continuous-subarray-sum) |
