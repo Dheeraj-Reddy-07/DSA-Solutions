@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -267,5 +273,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
