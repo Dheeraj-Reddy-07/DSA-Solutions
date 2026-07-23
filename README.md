@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -245,4 +248,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0706-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
