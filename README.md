@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
