@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1929-concatenation-of-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -225,4 +226,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0043-multiply-strings) |
+| [1929-concatenation-of-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
