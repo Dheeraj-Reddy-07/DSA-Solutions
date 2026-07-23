@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Monotonic Stack
@@ -229,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0043-multiply-strings) |
 | [1929-concatenation-of-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1929-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
