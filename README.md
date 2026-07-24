@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -292,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
