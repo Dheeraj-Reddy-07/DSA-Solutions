@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0496-next-greater-element-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0706-design-hashmap) |
 ## Queue
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Simulation
 |  |
 | ------- |
