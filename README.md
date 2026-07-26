@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0204-count-primes) |
+| [0219-contains-duplicate-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
