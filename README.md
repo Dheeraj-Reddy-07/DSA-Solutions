@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0978-longest-turbulent-subarray](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1929-concatenation-of-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
