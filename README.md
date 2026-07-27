@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0204-count-primes) |
@@ -257,12 +258,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0055-jump-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
 ## Sliding Window
