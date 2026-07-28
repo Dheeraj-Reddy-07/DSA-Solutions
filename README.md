@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0055-jump-game) |
+| [0746-min-cost-climbing-stairs](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
 ## Sliding Window
