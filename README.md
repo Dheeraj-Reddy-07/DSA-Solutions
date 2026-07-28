@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0978-longest-turbulent-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -347,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
