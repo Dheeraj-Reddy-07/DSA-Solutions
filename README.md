@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
 |  |
 | ------- |
