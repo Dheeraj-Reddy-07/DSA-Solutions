@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
