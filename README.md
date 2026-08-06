@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0724-find-pivot-index) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0658-find-k-closest-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
