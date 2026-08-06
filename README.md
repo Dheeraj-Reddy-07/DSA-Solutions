@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -384,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0877-stone-game) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
