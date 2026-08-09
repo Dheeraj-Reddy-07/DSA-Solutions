@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1046-last-stone-weight) |
+| [1834-single-threaded-cpu](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1929-concatenation-of-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1834-single-threaded-cpu](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1834-single-threaded-cpu) |
 ## Binary Search
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1046-last-stone-weight) |
+| [1834-single-threaded-cpu](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1834-single-threaded-cpu) |
 ## Merge Sort
 |  |
 | ------- |
