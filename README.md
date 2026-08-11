@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0100-same-tree) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Simulation
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
