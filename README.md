@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1834-single-threaded-cpu) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -228,11 +230,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -545,4 +549,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
