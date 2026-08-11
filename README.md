@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1929-concatenation-of-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1929-concatenation-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1834-single-threaded-cpu](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1834-single-threaded-cpu) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0767-reorganize-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
