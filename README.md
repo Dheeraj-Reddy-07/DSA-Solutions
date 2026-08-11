@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0125-valid-palindrome) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0077-combinations) |
@@ -568,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
