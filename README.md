@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dheeraj-Reddy-07/DSA-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
